@@ -1,0 +1,28 @@
+{
+  "ProjectName": "SimpleApp",
+  "ProjectGuid": "db25cf4a-d9f8-4c16-b607-8b04313a901e",
+  "projectVersion": 1,
+  "AppIdentifier": "com.telerik.SimpleApp",
+  "DisplayName": "SimpleApp",
+  "Author": "",
+  "Description": "SimpleApp",
+  "BundleVersion": "1.0",
+  "AndroidVersionCode": "1",
+  "iOSDeviceFamily": [
+    "1",
+    "2"
+  ],
+  "iOSBackgroundMode": [],
+  "ProjectTypeGuids": "{F0A65104-D4F4-4012-B799-F612D75820F6}",
+  "AndroidPermissions": [
+    "android.permission.INTERNET"
+  ],
+  "DeviceOrientations": [
+    "Portrait",
+    "Landscape"
+  ],
+  "AndroidHardwareAcceleration": "true",
+  "iOSStatusBarStyle": "Default",
+  "FrameworkVersion": "2.2.0",
+  "Framework": "NativeScript"
+}
